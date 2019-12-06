@@ -1,0 +1,59 @@
+<link rel='stylesheet' href='https://cdn.bootcss.com/animate.css/3.7.2/animate.min.css'>
+  <link rel="stylesheet" href="https://blog-static.cnblogs.com/files/elkyo/siyuan.css" />
+  <script src="https://blog-static.cnblogs.com/files/guanxiaohe/jquery.min.js"></script>
+  <script src="https://blog-static.cnblogs.com/files/elkyo/monitoring.js"></script>
+  <link rel="stylesheet" href="https://blog-static.cnblogs.com/files/elkyo/OwO.min.css" />
+  <script src="https://blog-static.cnblogs.com/files/elkyo/OwO.min.js"></script>
+  <script src="https://blog-static.cnblogs.com/files/elkyo/cute-cnblogs.js"></script>
+  <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+  <script src="https://blog-static.cnblogs.com/files/elkyo/three.min.js"></script>
+  <script src='https://blog-static.cnblogs.com/files/elkyo/star.js'></script>
+  <script>
+  miluframe({
+      /*个人链接地址*/
+    Youself:'https://www.cnblogs.com/guanxiaohe/',
+    /*导航栏信息*/
+    custom:[{
+      name:'管理',
+      link:'https://i.cnblogs.com/',
+      istarget:false
+    },{
+      name:'新随笔',
+      link:'https://i.cnblogs.com/EditPosts.aspx?opt=1',
+      /*link:'https://miluluyo.github.io/',*/
+      istarget:true
+    }
+
+],
+    /*自己的友链页面后缀*/
+    Friends_of_the:'p/11736672.html',
+    /*自己的友链信息*/
+    resume:{
+        "name":"官萧何",
+        "link":"https://www.cnblogs.com/guanxiaohe/",
+        "headurl":"https://files-cdn.cnblogs.com/files/guanxiaohe/%E8%BF%B7%E8%B7%AF.bmp",
+        "introduction":"易水萧何。"
+    },
+    /*友链信息*/
+    unionbox:[{
+        "name":"申燕秋",
+        "introduction":"秋天菠菜。",
+        "url":"https://qspinach.github.io/blog/",
+        "headurl":"https://files-cdn.cnblogs.com/files/guanxiaohe/avatar.bmp"
+      },{
+        "name":"金亮",
+        "introduction":"一闪一闪亮晶晶。",
+        "url":"https://blog.csdn.net/tanfengshang0872",
+        "headurl":"https://files-cdn.cnblogs.com/files/guanxiaohe/%E9%87%91%E4%BA%AE.bmp"
+      },{
+        "name":"麋鹿鲁哟的技能树",
+        "introduction":"大道至简，知易行难。",
+        "url":"https://miluluyo.github.io/",
+        "headurl":"https://images.cnblogs.com/cnblogs_com/elkyo/1558759/o_o_my.jpg"
+      }],
+    /*点击页面时候的弹出文本显示*/
+    clicktext:new Array("淡泊以明志 ——易水萧何","宁静以致远  ——易水萧何"),
+    /*github链接*/
+    githuburl:'https://github.com/guanxiaohe2017'
+  })
+  </script>
